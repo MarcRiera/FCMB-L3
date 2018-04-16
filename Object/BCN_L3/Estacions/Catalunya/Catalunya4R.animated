@@ -1,0 +1,114 @@
+[Include]
+Catalunya4R.csv
+
+[Object]
+States = Llum.csv
+Position = 7.1,6.2,9.7
+[Object]
+States = Llum.csv
+RotateYFunction = 3.15
+Position = 7.1,6.2,10.9
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = 7.7,6.2,10.3
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = 6.5,6.2,10.3
+
+[Object]
+States = Llum.csv
+Position = 7.1,6.2,14.7
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = 7.7,6.2,15.3
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = 6.5,6.2,15.3
+
+[Object]
+States = Llum.csv
+RotateYFunction = 3.15
+Position = 7.1,6.2,20.9
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = 7.7,6.2,20.3
+
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = 11.7,6.2,10.3
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = 11.7,6.2,15.3
+
+[Object]
+States = Llum.csv
+RotateYFunction = 3.15
+Position = 13.125,6.2,15.9
+[Object]
+States = Llum.csv
+RotateYFunction = 3.15
+Position = 16.125,6.2,15.9
+
+
+[Object]
+States = ../Common/Validadora.csv
+RotateYFunction = 1.575
+Position = 17,3.26,16.25
+[Object]
+States = ../Common/Validadora.csv
+RotateYFunction = 1.575
+Position = 17,3.26,17.25
+[Object]
+States = ../Common/Validadora.csv
+RotateYFunction = 1.575
+Position = 17,3.26,18.25
+[Object]
+States = ../Common/Validadora.csv
+RotateYFunction = 1.575
+Position = 17,3.26,19.25
+[Object]
+States = ../Common/Validadora2.csv
+RotateYFunction = 1.575
+Position = 17,3.26,19.25
+
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 17.35,3.26,26
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 16.35,3.26,26
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 15.35,3.26,26
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 14.35,3.26,26
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 13.35,3.26,26
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 12.35,3.26,26
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 11.35,3.26,26
+[Object]
+States = ../Common/Validadora2.csv
+Position = 11.35,3.26,26
+[Object]
+States = ../Common/Validadora3.csv
+Position = 9.7,3.26,26
+
+
+[Object]
+States = Ascensor2.csv
+Position = 5.4,3.1,17.75
+TranslateYFunction = cos[time/4]*2
+

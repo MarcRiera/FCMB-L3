@@ -1,0 +1,56 @@
+﻿With Options,
+
+.BlockLength 2.5
+.ObjectVisibility 1
+.FogBehavior 1
+
+With Route,
+
+.Comment Línia 3 del Ferrocarril Metropolità de Barcelona.$Chr(13)$Chr(13)Liceu - Lesseps$Chr(13)ATP/ATO$Chr(13)$Chr(13)$Chr(13)(C) 2016 Marc Riera
+.Image Mapa.png
+.LoadingScreen(Loading.png)
+.Change -1
+.Gauge 1435
+.AmbientLight 224;227;217
+;.LightDirection 90;0
+.RunInterval 150
+
+With Train,
+
+.Folder (FCMB 2000)
+.Run(0) 2
+.Run(1) 2
+.Run(2) 2
+.Run(20) 2
+.Run(23) 2
+.Run(24) 2
+.Run(30) 3
+.Run(90) 2
+.Run(91) 2
+.Run(92) 2
+.Flange(0) 2
+.Flange(1) 2
+.Flange(2) 2
+.Flange(20) 2
+.Flange(23) 2
+.Flange(24) 2
+.Flange(30) 3
+.Flange(90) 2
+.Flange(91) 2
+.Flange(92) 2
+
+$Include(Structure.include)
+
+With Track,
+
+$Include(ATC2.include)
+$Include(3rCarril2.include)
+$Include(Lightmap2.include)
+$Include(ZU-TN.include)
+
+17730, .Sta Liceu;;;;R;;ATC,
+18335, .Sta Catalunya;;;;R;;ATC,
+19050, .Sta Passeig de Gràcia;;;;R;;ATC,
+19800, .Sta Diagonal;;;;R;;ATC,
+20825, .Sta Fontana;;;;R;;ATC;;;;,
+21275, .Sta Lesseps;;;;R;;ATC,

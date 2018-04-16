@@ -1,0 +1,31 @@
+[Include]
+Liceu4R.csv
+
+[Object]
+States = ../Common/Tiquets.csv
+RotateYFunction = 1.575
+Position = 10.3,1.15,31.6
+[Object]
+States = ../Common/Tiquets.csv
+RotateYFunction = 1.575
+Position = 10.3,1.15,33
+
+[Object]
+States = ../Common/Validadora2.csv
+Position = 5.15,1.15,19
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 5.15,1.15,19
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 6.15,1.15,19
+[Object]
+States = ../Common/ValidadoraB.csv
+Position = 7.15,1.15,19
+[Object]
+States = ../Common/Validadora.csv
+Position = 8.15,1.15,19
+[Object]
+States = ../Common/Validadora3.csv
+Position = 9.749,1.15,19
+

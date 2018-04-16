@@ -1,0 +1,33 @@
+02545, .Brightness 190,
+02550, .Brightness 0,
+09125, .Brightness 0,
+;Lesseps
+09865, .Brightness 0,
+09880, .Brightness 190,
+09975, .Brightness 190,
+09990, .Brightness 0,
+;Fontana
+10315, .Brightness 0,
+10330, .Brightness 190,
+10425, .Brightness 190,
+10440, .Brightness 0,
+;Diagonal
+11335, .Brightness 0,
+11350, .Brightness 190,
+11445, .Brightness 190,
+11460, .Brightness 0,
+;Passeig de Gràcia
+12085, .Brightness 0,
+12100, .Brightness 190,
+12198, .Brightness 190,
+12212, .Brightness 0,
+;Catalunya
+12810, .Brightness 0,
+12825, .Brightness 190,
+12920, .Brightness 190,
+12935, .Brightness 0,
+;Liceu
+13410, .Brightness 0,
+13425, .Brightness 190,
+13518, .Brightness 190,
+13532, .Brightness 0,

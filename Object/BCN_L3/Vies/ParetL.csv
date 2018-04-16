@@ -1,0 +1,15 @@
+CreateMeshBuilder
+AddVertex,-1.9,-0.25,-0.025
+AddVertex,-2.2,-0.25,-0.025
+AddVertex,-1.9,-0.25,2.525
+AddVertex,-2.2,-0.25,2.525
+AddVertex,-1.9,-1.25,-0.025
+AddVertex,-2.2,-1.25,-0.025
+AddVertex,-1.9,-1.25,2.525
+AddVertex,-2.2,-1.25,2.525
+AddFace,0,1,3,2
+AddFace,7,3,1,5,
+AddFace,5,1,0,4,
+AddFace,6,2,3,7,
+GenerateNormals
+SetColor,7,7,7

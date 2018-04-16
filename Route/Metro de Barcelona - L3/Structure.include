@@ -1,0 +1,174 @@
+With Structure,
+
+.Rail(0) BCN_L3\Vies\Balast.csv
+.Rail(1) BCN_L3\null.csv
+.Rail(2) BCN_L3\Vies\Catenaria\RigidaT.csv
+.Rail(3) BCN_L3\Vies\Catenaria\3CarrilLT.csv
+.Rail(4) BCN_L3\Vies\Catenaria\3CarrilRT.csv
+.Rail(5) BCN_L3\Vies\Catenaria\3CarrilL.csv
+.Rail(6) BCN_L3\Vies\Catenaria\3CarrilR.csv
+.Rail(7) BCN_L3\Vies\Catenaria\Rigida.csv
+.Rail(10) BCN_L3\Vies\BalastT.csv
+.Rail(11) BCN_L3\Vies\BalastT2.csv
+.Rail(24) BCN_L3\Vies\L500-SwitchR.csv
+.Rail(30) BCN_L3\Vies\Placa\straight.csv
+
+.Rail(40) BCN_L3\Vies\Catenaria\Suport3L.csv
+.Rail(41) BCN_L3\Vies\Catenaria\Suport3R.csv
+.Rail(42) BCN_L3\Vies\Catenaria\Suport3LT.csv
+.Rail(43) BCN_L3\Vies\Catenaria\Suport3RT.csv
+
+.Rail(44) BCN_L3\Vies\Catenaria\Suport.csv
+.Rail(45) BCN_L3\Vies\Catenaria\SuportLateralL.csv
+.Rail(46) BCN_L3\Vies\Catenaria\SuportLateralR.csv
+.Rail(47) BCN_L3\Vies\Catenaria\SuportDoble.csv
+
+.Rail(100) BCN_L3\Vies\Cables.csv
+.Rail(90) BCN_L3\Vies\SwitchLesseps.csv
+.Rail(91) BCN_L3\Vies\SwitchLesseps2.csv
+.Rail(92) BCN_L3\Vies\AgullaLessepsFontana.csv
+
+Cycle.Rail(40) 40;1,
+Cycle.Rail(41) 41;1,
+Cycle.Rail(42) 42;1,
+Cycle.Rail(43) 43;1,
+Cycle.Rail(44) 44;1;1;1;1,
+Cycle.Rail(45) 45;1;1;1;1,
+Cycle.Rail(46) 46;1;1;1;1,
+Cycle.Rail(47) 47;1;1;1;1,
+
+.WallL(4) BCN_L3\Tunel\Tunel_GMBL.csv
+.WallR(4) BCN_L3\Tunel\Tunel_GMBR.csv
+.WallL(5) BCN_L3\Tunel\RENFEL.csv
+.WallR(5) BCN_L3\Tunel\RENFER.csv
+.WallL(6) BCN_L3\Tunel\RamblaL.csv
+.WallR(6) BCN_L3\Tunel\RamblaR.csv
+.WallL(20) BCN_L3\Tunel\ModernL.csv
+.WallR(20) BCN_L3\Tunel\ModernR.csv
+.WallL(21) BCN_L3\Tunel\ModernL2.csv
+.WallR(21) BCN_L3\Tunel\ModernR2.csv
+
+.DikeL(0) BCN_L3\Vies\ParetL.csv
+.DikeR(0) BCN_L3\Vies\ParetR.csv
+
+
+.FreeObj(1) BCN_L3\Vies\Catenaria\SuportLateralL.csv
+.FreeObj(2) BCN_L3\Vies\Catenaria\SuportLateralR.csv
+.FreeObj(5) BCN_L3\Vies\Catenaria\Suport.csv
+.FreeObj(6) BCN_L3\Vies\Catenaria\Suport2.csv
+.FreeObj(7) BCN_L3\Vies\Catenaria\SuportDoble.csv
+
+.FreeObj(10) BCN_L3\Tunel\Tunel_GMBL.csv
+.FreeObj(11) BCN_L3\Tunel\Tunel_GMBR.csv
+.FreeObj(12) BCN_L3\Tunel\Embocadura10.csv
+.FreeObj(13) BCN_L3\Tunel\ModernL2.csv
+.FreeObj(14) BCN_L3\Tunel\ModernR2.csv
+.FreeObj(15) BCN_L3\Tunel\RENFEL2.csv
+.FreeObj(16) BCN_L3\Tunel\RENFER2.csv
+.FreeObj(17) BCN_L3\Tunel\Bifurcacio_Arago1.csv
+.FreeObj(18) BCN_L3\Tunel\Bifurcacio_Arago2.csv
+.FreeObj(19) BCN_L3\Tunel\Bifurcacio_Arago3.csv
+.FreeObj(20) BCN_L3\Tunel\Bifurcacio_Arago4.csv
+.FreeObj(21) BCN_L3\Tunel\Bifurcacio_Arago5.csv
+.FreeObj(22) BCN_L3\Tunel\Bifurcacio_Arago6.csv
+.FreeObj(23) BCN_L3\Tunel\Pont.csv
+.FreeObj(24) BCN_L3\Tunel\RamblaL2.csv
+.FreeObj(25) BCN_L3\Tunel\RamblaR2.csv
+
+
+.FreeObj(40) BCN_L3\Senyals\tunnel_signal_2_0.animated
+.FreeObj(41) BCN_L3\Senyals\tunnel_signal_2a_2.animated
+.FreeObj(42) BCN_L3\Senyals\tunnel_signal_2b_5.animated
+.FreeObj(43) BCN_L3\Senyals\tunnel_signal_3_0.animated
+.FreeObj(44) BCN_L3\Senyals\tunnel_signal_3_2.animated
+.FreeObj(45) BCN_L3\Senyals\tunnel_signal_3_5.animated
+
+.FreeObj(50) BCN_L3\Estacions\Common\Anuncis\Anunci1.csv
+.FreeObj(51) BCN_L3\Estacions\Common\Anuncis\Anunci2.csv
+.FreeObj(52) BCN_L3\Estacions\Common\Anuncis\Anunci3.csv
+.FreeObj(53) BCN_L3\Estacions\Common\Anuncis\Anunci4.csv
+.FreeObj(54) BCN_L3\Estacions\Common\Anuncis\Anunci5.csv
+.FreeObj(55) BCN_L3\Estacions\Common\Anuncis\Anunci6.csv
+.FreeObj(56) BCN_L3\Estacions\Common\Anuncis\Anunci7.csv
+.FreeObj(57) BCN_L3\Estacions\Common\Anuncis\Anunci8.csv
+.FreeObj(58) BCN_L3\Estacions\Common\Anuncis\Anunci9.csv
+.FreeObj(59) BCN_L3\Estacions\Common\Anuncis\Anunci10.csv
+.FreeObj(80) BCN_L3\Estacions\Common\Anuncis\Panell1.csv
+.FreeObj(81) BCN_L3\Estacions\Common\Anuncis\Panell2.csv
+.FreeObj(82) BCN_L3\Estacions\Common\Anuncis\Panell3.csv
+.FreeObj(83) BCN_L3\Estacions\Common\Anuncis\Panell4.csv
+.FreeObj(84) BCN_L3\Estacions\Common\Anuncis\Panell5.csv
+.FreeObj(88) BCN_L3\Estacions\Common\Vending1.csv
+.FreeObj(89) BCN_L3\Estacions\Common\Vending2.csv
+
+.FreeObj(94) BCN_L3\Estacions\Common\Mecaniques_Vidre.csv
+.FreeObj(95) BCN_L3\Estacions\Common\Escales_Mecaniques.csv
+.FreeObj(96) BCN_L3\Estacions\Common\Escales_MecaniquesB2.csv
+.FreeObj(97) BCN_L3\Estacions\Common\Escales_Mecaniques.csv
+.FreeObj(98) BCN_L3\Estacions\Common\Escales_MecaniquesB.csv
+.FreeObj(99) BCN_L3\Estacions\Fontana\Escales.csv
+.FreeObj(100) BCN_L3\Estacions\Lesseps\Lesseps1L.csv
+.FreeObj(101) BCN_L3\Estacions\Lesseps\Lesseps1R.csv
+.FreeObj(102) BCN_L3\Estacions\Lesseps\Lesseps2L.csv
+.FreeObj(103) BCN_L3\Estacions\Lesseps\Lesseps2R.csv
+.FreeObj(104) BCN_L3\Estacions\Lesseps\Lesseps3L.csv
+.FreeObj(105) BCN_L3\Estacions\Lesseps\Lesseps3R.csv
+.FreeObj(106) BCN_L3\Estacions\Lesseps\Lesseps4L.csv
+.FreeObj(107) BCN_L3\Estacions\Lesseps\Lesseps4R.csv
+.FreeObj(108) BCN_L3\Estacions\Fontana\Fontana1L.csv
+.FreeObj(109) BCN_L3\Estacions\Fontana\Fontana1R.csv
+.FreeObj(110) BCN_L3\Estacions\Fontana\Fontana2L.csv
+.FreeObj(111) BCN_L3\Estacions\Fontana\Fontana2R.csv
+.FreeObj(112) BCN_L3\Estacions\Fontana\Fontana3L.csv
+.FreeObj(113) BCN_L3\Estacions\Fontana\Fontana3R.csv
+.FreeObj(114) BCN_L3\Estacions\Fontana\Fontana4L.csv
+.FreeObj(115) BCN_L3\Estacions\Fontana\Fontana4R.csv
+.FreeObj(116) BCN_L3\Estacions\Diagonal\Diagonal1L.csv
+.FreeObj(117) BCN_L3\Estacions\Diagonal\Diagonal1R.csv
+.FreeObj(118) BCN_L3\Estacions\Diagonal\Diagonal2L.csv
+.FreeObj(119) BCN_L3\Estacions\Diagonal\Diagonal2R.csv
+.FreeObj(120) BCN_L3\Estacions\Diagonal\Diagonal3L.csv
+.FreeObj(121) BCN_L3\Estacions\Diagonal\Diagonal3R.csv
+.FreeObj(122) BCN_L3\Estacions\Diagonal\Diagonal4L.csv
+.FreeObj(123) BCN_L3\Estacions\Diagonal\Diagonal4R.csv
+.FreeObj(124) BCN_L3\Estacions\PgGracia\PgGracia1L.csv
+.FreeObj(125) BCN_L3\Estacions\PgGracia\PgGracia1R.csv
+.FreeObj(126) BCN_L3\Estacions\PgGracia\PgGracia2L.csv
+.FreeObj(127) BCN_L3\Estacions\PgGracia\PgGracia2R.csv
+.FreeObj(128) BCN_L3\Estacions\PgGracia\PgGracia3L.csv
+.FreeObj(129) BCN_L3\Estacions\PgGracia\PgGracia3R.csv
+.FreeObj(130) BCN_L3\Estacions\PgGracia\PgGracia4L.csv
+.FreeObj(131) BCN_L3\Estacions\PgGracia\PgGracia4R.csv
+.FreeObj(132) BCN_L3\Estacions\Catalunya\Catalunya1L.csv
+.FreeObj(133) BCN_L3\Estacions\Catalunya\Catalunya1R.csv
+.FreeObj(134) BCN_L3\Estacions\Catalunya\Catalunya2L.csv
+.FreeObj(135) BCN_L3\Estacions\Catalunya\Catalunya2R.csv
+.FreeObj(136) BCN_L3\Estacions\Catalunya\Catalunya3L.csv
+.FreeObj(137) BCN_L3\Estacions\Catalunya\Catalunya3R.csv
+.FreeObj(138) BCN_L3\Estacions\Catalunya\Catalunya4L.animated
+.FreeObj(139) BCN_L3\Estacions\Catalunya\Catalunya4R.animated
+.FreeObj(140) BCN_L3\Estacions\Liceu\Liceu1L.animated
+.FreeObj(141) BCN_L3\Estacions\Liceu\Liceu1R.animated
+.FreeObj(142) BCN_L3\Estacions\Liceu\Liceu2L.csv
+.FreeObj(143) BCN_L3\Estacions\Liceu\Liceu2R.csv
+.FreeObj(144) BCN_L3\Estacions\Liceu\Liceu3L.csv
+.FreeObj(145) BCN_L3\Estacions\Liceu\Liceu3R.csv
+.FreeObj(146) BCN_L3\Estacions\Liceu\Liceu4L.animated
+.FreeObj(147) BCN_L3\Estacions\Liceu\Liceu4R.animated
+
+.FreeObj(300) BCN_L3\Vies\CorbaLesseps.csv
+.FreeObj(320) BCN_L3\Vies\SwitchR.csv
+.FreeObj(390) BCN_L3\Vies\SwitchLesseps.csv
+.FreeObj(391) BCN_L3\Vies\SwitchLesseps2.csv
+.FreeObj(392) BCN_L3\Vies\AgullaLessepsFontana.csv
+.FreeObj(393) BCN_L3\Vies\AgullaArago1.csv
+.FreeObj(394) BCN_L3\Vies\AgullaArago2.csv
+
+.FreeObj(400) BCN_L3\Tunel\Bifurcacio_Lesseps.csv
+
+
+Signal(12).Load BCN_L3\Senyals\tunnel_signal_2b.animated
+Signal(13).Load BCN_L3\Senyals\tunnel_signal_3.animated
+
+
+Texture.Background(0) BCN_L3\Black.png,

@@ -1,0 +1,63 @@
+[Include]
+Catalunya4L.csv
+
+[Object]
+States = Llum.csv
+Position = -7.1,6.2,9.7
+[Object]
+States = Llum.csv
+RotateYFunction = 3.15
+Position = -7.1,6.2,10.9
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = -7.7,6.2,10.3
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = -6.5,6.2,10.3
+
+[Object]
+States = Llum.csv
+Position = -7.1,6.2,14.7
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = -7.7,6.2,15.3
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = -6.5,6.2,15.3
+
+[Object]
+States = Llum.csv
+RotateYFunction = 3.15
+Position = -7.1,6.2,20.9
+[Object]
+States = Llum.csv
+RotateYFunction = 1.575
+Position = -7.7,6.2,20.3
+
+[Object]
+States = Llum.csv
+Position = -7.1,6.2,24.7
+
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = -11.7,6.2,10.3
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = -11.7,6.2,15.3
+[Object]
+States = Llum.csv
+RotateYFunction = -1.575
+Position = -11.7,6.2,20.3
+
+
+[Object]
+States = Ascensor1.csv
+Position = -5.4,3.1,17.75
+TranslateYFunction = cos[(time+10)/4]*2
+

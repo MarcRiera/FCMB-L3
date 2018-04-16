@@ -1,0 +1,30 @@
+﻿CreateMeshBuilder
+AddVertex, -0.15, -0.71, -0.2
+AddVertex, -0.15, -0.17, -0.2
+AddVertex, 0.15, -0.17, -0.2
+AddVertex, 0.15, -0.71, -0.2
+AddFace, 0, 1, 2, 3
+SetTextureCoordinates, 0, 0.25, 0.83
+SetTextureCoordinates, 1, 0.25, 0.19
+SetTextureCoordinates, 2, 0.75, 0.19
+SetTextureCoordinates, 3, 0.75, 0.83
+LoadTexture, Graphics\signal_2.png
+SetColor, 0, 0, 0
+SetEmissiveColor, 120, 120, 120
+
+CreateMeshBuilder
+AddVertex, -0.15, -0.71, -0.2
+AddVertex, -0.15, -0.17, -0.2
+AddVertex, 0.15, -0.17, -0.2
+AddVertex, 0.15, -0.71, -0.2
+AddVertex, -0.15, -0.71, -0.0
+AddVertex, -0.15, -0.17, -0.0
+AddVertex, 0.15, -0.17, -0.0
+AddVertex, 0.15, -0.71, -0.0
+AddFace, 0, 3, 7, 4
+AddFace, 0, 4, 5, 1
+AddFace, 1, 5, 6, 2
+AddFace, 2, 6, 7, 3
+AddFace, 4, 7, 6, 5
+SetColor, 0, 0, 0
+SetEmissiveColor, 10, 10, 10

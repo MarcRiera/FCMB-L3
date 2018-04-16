@@ -1,0 +1,39 @@
+;Senyalització
+
+09875, .FreeObj 1;40;-2.325;3;180,
+09980, .Section 0;5,		.SigF 12;0;1.65;3,		;Lesseps
+10030, .FreeObj 0;40;1.65;3;180,.FreeObj 1;42;-1.65;3;180,
+10325, .FreeObj 1;44;-1.65;3;180,
+10430, .Section 0;5,		.SigF 12;0;1.65;3,		;Fontana
+11348, .FreeObj 1;42;-1.65;3;180,
+11450, .Section 0;2;5,		.SigF 13;0;1.65;3,		;Diagonal
+11970, .Section 0;5,		.SigF 12;0;1.65;3,		;Agulla
+11970, .FreeObj 1;40;-1.65;3;,
+12091, .FreeObj 0;40;1.95;3;180,.FreeObj 1;40;-1.85;3;180,
+12205, .Section 0;2;5,		.SigF 13;0;1.65;3,		;Passeig de Gràcia
+12520, .Section 0;5,		.SigF 12;0;-1.55;3,		;Agulla
+12820, .FreeObj 1;42;-1.65;3;180,
+12930, .Section 0;2;5,		.SigF 13;0;1.65;3,		;Catalunya
+12930, .FreeObj 1;40;-1.65;3,
+13345, .Section 0;5,		.SigF 12;0;1.52;3,		;Agulla
+13345, .FreeObj 1;40;-1.52;3;,
+13420, .FreeObj 1;42;-1.52;4;180,
+13525, .Section 0;5,		.SigF 12;0;1.52;3,		;Liceu
+
+
+
+;Punts de parada ATO
+
+09269.5,	.Beacon 32;-1;0;00000665, ;Lesseps
+09869.5,	.Beacon 32;-1;0;00000100,
+10119, 		.Beacon 32;-1;0;00000265, ;Fontana
+10319, 		.Beacon 32;-1;0;00000100,
+10740, 		.Beacon 32;-1;0;00000665, ;Diagonal
+11340, 		.Beacon 32;-1;0;00000100,
+11650, 		.Beacon 32;-1;0;00000505, ;Passeig de Gràcia
+12090, 		.Beacon 32;-1;0;00000100,
+12372,		.Beacon 32;-1;0;00000755, ;Catalunya
+12572,		.Beacon 32;-1;0;00000540,
+12817,		.Beacon 32;-1;0;00000100,
+13100, 		.Beacon 32;-1;0;00000455, ;Liceu
+13414.4,	.Beacon 32;-1;0;00000100,

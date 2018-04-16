@@ -1,0 +1,15 @@
+﻿[include]
+tunnel_signal_2.csv
+
+[include]
+tunnel_signal_lamp_hood.csv
+position = 0, 0.00, 0
+
+[include]
+tunnel_signal_lamp_hood.csv
+position = 0, -0.24, 0
+
+[object]
+states = signal_2_0.csv, signal_2b_5.csv, signal_2b_5.csv, signal_2b_5.csv, signal_2b_5.csv, signal_2b_5.csv, signal_2b_5.csv
+statefunction = if[value == -1 | value == section, section, -1]
+refreshrate = 0.5
